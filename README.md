@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Daniel Pessoa Máximo  
 
-<!--
-**danielpmaximo/danielpmaximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Computação (UFAL) – 10º período  
+💼 Estagiário de Ciência de Dados na **IPLAM - Instituto de Pesquisa e Planejamento Urbano e Ambiental de Maceió**  
+📊 Experiência em **Python, SQL, Power BI e Tensorflow**  
+🤖 Projetos em **Ciência de Dados, Machine Learning e Visão Computacional**  
+🌍 Interesse em **Cidades Inteligentes, Inovação e Análise de Dados aplicada a problemas reais**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas  
+- **Linguagens:** Python, SQL  
+- **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
+- **BI & Data Viz:** Power BI, Excel Avançado  
+- **Outros:** Git/GitHub  
+
+---
+
+## 📈 Projetos em Destaque  
+- 🔬 Projeto de Iniciação Científica: *Modelos de Machine Learning para análise de imagens biomédicas (TensorFlow/Scikit-learn)*  
+- 📊 Dashboards de Vendas e Estoque no Power BI (Carajás Home Center)  
+- 👁️ Projetos em **Visão Computacional** com Python e OpenCV  
+- 🤖 Experimentos com **TinyML** e TensorFlow Lite para dispositivos embarcados   
+
+---
+
+## 📫 Onde me encontrar  
+- [LinkedIn](https://www.linkedin.com/in/daniel-m-97460211b/)  
+- [E-mail](daniel.pessoa.maximo@gmail.com)  
+
+---
+
+⭐ Sempre aprendendo, testando ideias novas e aplicando tecnologia para resolver problemas reais.  
