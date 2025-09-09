@@ -29,7 +29,8 @@
 
 ---
 
-- 📧 **E-mail:** [daniel.pessoa.maximo@gmail.com](mailto:daniel.pessoa.maximo@gmail.com)
+## 📧 **E-mail
+- [daniel.pessoa.maximo@gmail.com](mailto:daniel.pessoa.maximo@gmail.com)
 
 ---
 
