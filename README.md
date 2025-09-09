@@ -26,7 +26,10 @@
 
 ## 📫 Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/daniel-m-97460211b/)  
-- [E-mail](mailto:daniel.pessoa.maximo@gmail.com)  
+
+---
+
+- 📧 **E-mail:** [daniel.pessoa.maximo@gmail.com](mailto:daniel.pessoa.maximo@gmail.com)
 
 ---
 
