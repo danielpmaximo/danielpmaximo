@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias e Ferramentas  
 - **Linguagens:** Python, SQL  
 - **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
-- **BI & Data Viz:** Power BI, Excel Avançado  
+- **BI & Data Visualization:** Power BI, Excel Avançado  
 - **Outros:** Git/GitHub  
 
 ---
@@ -26,7 +26,7 @@
 
 ## 📫 Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/daniel-m-97460211b/)  
-- [E-mail](daniel.pessoa.maximo@gmail.com)  
+- [E-mail](mailto:daniel.pessoa.maximo@gmail.com)  
 
 ---
 
