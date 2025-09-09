@@ -29,7 +29,7 @@
 
 ---
 
-## 📧 **E-mail
+## 📧 E-mail
 - [daniel.pessoa.maximo@gmail.com](mailto:daniel.pessoa.maximo@gmail.com)
 
 ---
