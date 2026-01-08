@@ -4,7 +4,7 @@
 💼 Data Science Intern at **IPLAM - Institute for Urban and Environmental Research and Planning of Maceió**  
 📊 Experience in **Python, SQL, Power BI, and TensorFlow**  
 🤖 Projects in **Data Science, Machine Learning, and Computer Vision**  
-🌍 Interested in **Smart Cities, Innovation, and Data Analysis applied to real-world problems**  
+🌍 Interested in **AI, Machine Learning, Smart Cities, and Data Analysis applied to real-world problems**  
 
 ---
 
