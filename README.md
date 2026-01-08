@@ -17,10 +17,11 @@
 ---
 
 ## 📈 Featured Projects  
+- 🏙️ *Maceió Observatory Platform* – Data analysis and platform design for urban indicators and decision-making (IPLAM)
 - 🔬 Scientific Initiation Project: *Machine Learning Models for Biomedical Image Analysis (TensorFlow/Scikit-learn)*  
-- 📊 Sales and Inventory Dashboards in Power BI (Carajás Home Center)  
+- 📊 *Sales and Inventory Dashboards in Power BI* (Carajás Home Center)  
 - 👁️ **Computer Vision** Projects with Python and OpenCV  
-- 🤖 Experiments with **TinyML** and TensorFlow Lite for Embedded Devices  
+- 🤖 Experiments with **TinyML** and **TensorFlow Lite** for Embedded Devices  
 
 ---
 
